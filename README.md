@@ -2,6 +2,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=pglombardo&theme=darkhub)
 
+One of [my favorite pull requests](https://github.com/tracelytics/ruby-traceview/pull/168) from the past.
+
 <!--
 **pglombardo/pglombardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

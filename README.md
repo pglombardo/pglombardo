@@ -1,27 +1,78 @@
-### Hi there 👋
+<div align="center">
+<img src="./assets/meditating_monkey.jpg"/>
 
+<br/>
+
+![GitHub followers](https://img.shields.io/github/followers/pglombardo?logo=GitHub&style=for-the-badge&label=Github%20Followers)
+![GitHub Stars](https://img.shields.io/github/stars/pglombardo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Github%20Stars)
+[![TheOx00](https://img.shields.io/static/v1?label=Blog&message=The0x00.dev&color=blue&style=for-the-badge)](https://the0x00.dev)
+
+</div>
+
+# About
+
+My name is Peter Giacomo Lombardo and I am based in Palermo, Sicily.
+
+# Current
+
+I'm proudly enlisted with [HiveMQ](https://www.hivemq.com) building out their massively scalable MQTT broker product.
+
+Specifically, I am building the bright future of their MQTT client ecosystem.
+
+Don't know MQTT?  It's an efficient binary publish/subscribe protocol that is used in many places such as IoT, Gaming, Robotics and Manufacturing.  See [the specification](https://mqtt.org).
+
+# Past
+
+More than 8 years building performance instrumentation for Instana & Tracelytics (today renamed to AppOptics).
+
+In other projects I've build embedded system, distributed file systems, implemented protocols and architected SaaS products.
+
+# Opensource
+
+[![Password Pusher](./assets/pwpush-horizontal-logo.png)](https://github.com/pglombardo/PasswordPusher)
+
+In my spare time, I work on a security solution that makes communicating sensitive data more secure.  The project boasts an active community and more than 100k users per month at [pwpush.com](https://pwpush.com).
+
+The solution can be re-branded and is often hosted privately.
+
+# Packages I've Authored
+
+## Now
+
+[![](https://img.shields.io/docker/pulls/pglombardo/pwpush-ephemeral?label=pwpush-ephemeral%20Docker%20Container&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-ephemeral)
+[![](https://img.shields.io/docker/pulls/pglombardo/pwpush-postgres?label=pwpush-postgres%20Docker%20Container&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-postgres)
+[![](https://img.shields.io/docker/pulls/pglombardo/pwpush-mysql?label=pwpush-mysql%20Docker%20Container&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-mysql)
+[![](https://img.shields.io/pypi/dm/pwpush?label=pwpush%20CLI%20Python%20Package&logo=python&style=for-the-badge)](https://pypi.org/project/pwpush/)
+
+## Past
+[![](https://img.shields.io/pypi/dm/instana?label=Instana%20Python%20Package&logo=python&style=for-the-badge)](https://pypi.org/project/instana/)
+[![](https://img.shields.io/gem/dt/instana?label=Instana%20Ruby%20Gem&style=for-the-badge&logo=ruby)](https://rubygems.org/gems/instana)
+[![](https://img.shields.io/gem/dt/traceview?label=TraceView%20Ruby%20Gem&style=for-the-badge&logo=ruby)](https://rubygems.org/gems/traceview)
+[![](https://img.shields.io/gem/dt/oboe?label=Oboe%20Ruby%20Gem&logo=ruby&style=for-the-badge)](https://rubygems.org/gems/oboe)
+[![](https://img.shields.io/gem/dt/oboe-heroku?label=Oboe%20Heroku%20Ruby%20Gem&logo=ruby&style=for-the-badge)](https://rubygems.org/gems/oboe-heroku)
+
+# Recent Posts
+
+* [A Brief History of Instana](https://the0x00.dev/instana/History-of-Instana/)
+* [How to Securely Send Passwords or Other Confidential Information](https://the0x00.dev/passwordpusher/How-and-Why-Send-Password-Securely/)
+* [How to wrap (monkey patch) methods or functions in Python](https://the0x00.dev/python/How-to-monkey-patch-a-method-or-function-in-python/)
+* [Using StarCraft II for AI Research](https://the0x00.dev/deep%20learning/python/ai/Using-StarCraft-2-for-AI-development/)
+* [See More..](https://the0x00.dev)
+
+# Statistics & Data
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pglombardo&theme=blueberry)
 ![pglombardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pglombardo&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pglombardo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=pglombardo&theme=darkhub)
 
 One of [my favorite pull requests](https://github.com/tracelytics/ruby-traceview/pull/168) from the past.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pglombardo&theme=blueberry)](https://git.io/streak-stats)
+# Contact
 
+You can reach me in the following ways:
 
-<!--
-**pglombardo/pglombardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email me at my github username at hey.com
+* File a Github issue in this repo
+* DM me on [Twitter](https://twitter.com/pglombardo)
+* Write me a letter.  Response averages from one to two months.

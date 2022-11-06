@@ -19,13 +19,13 @@ I'm proudly enlisted with [HiveMQ](https://www.hivemq.com) building out their ma
 
 Specifically, I am building the bright future of their MQTT client ecosystem.
 
-Don't know MQTT?  It's an efficient binary publish/subscribe protocol that is used in many places such as IoT, Gaming, Robotics and Manufacturing.  See [the specification](https://mqtt.org).
+Don't know MQTT?  It's a binary publish/subscribe protocol that is used in many places such as IoT, Gaming, Robotics and Manufacturing.  See [the specification](https://mqtt.org).
 
 # Past
 
 More than 8 years building performance instrumentation for Instana & Tracelytics (today renamed to AppOptics).
 
-In other projects I've build embedded system, distributed file systems, implemented protocols and architected SaaS products.
+In other projects I've built embedded systems, distributed file systems, implemented protocols and architected SaaS products.
 
 # Opensource
 

@@ -39,6 +39,7 @@ The solution can be re-branded and is often hosted privately.
 
 ## Now
 
+[![](https://img.shields.io/nuget/dt/HiveMQtt?label=HiveMQtt%20&logo=NuGet&style=for-the-badge)](https://www.nuget.org/packages/HiveMQtt)
 [![](https://img.shields.io/docker/pulls/pglombardo/pwpush-ephemeral?label=pwpush-ephemeral%20Docker%20Container&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-ephemeral)
 [![](https://img.shields.io/docker/pulls/pglombardo/pwpush-postgres?label=pwpush-postgres%20Docker%20Container&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-postgres)
 [![](https://img.shields.io/docker/pulls/pglombardo/pwpush-mysql?label=pwpush-mysql%20Docker%20Container&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-mysql)

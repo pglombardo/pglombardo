@@ -31,7 +31,7 @@ In other projects I've built embedded systems, distributed file systems, impleme
 
 [![Password Pusher](./assets/pwpush-horizontal-logo.png)](https://github.com/pglombardo/PasswordPusher)
 
-In my spare time, I work on a security solution that makes communicating sensitive data more secure.  The project boasts an active community and more than 100k users per month at [pwpush.com](https://pwpush.com).
+In my spare time, I work on a security solution that makes communicating sensitive data more secure.  The project boasts an active community and more than **185k MAU** at [pwpush.com](https://pwpush.com).
 
 The solution can be re-branded and is often hosted privately.
 
@@ -62,10 +62,11 @@ The solution can be re-branded and is often hosted privately.
 
 # Statistics & Data
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pglombardo&theme=blueberry)
-![pglombardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pglombardo&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pglombardo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-trophy.vercel.app/?username=pglombardo&theme=darkhub)
+![pglombardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pglombardo&count_private=true&theme=radical&show_icons=true&title_color=0891b2&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pglombardo&theme=blueberry)
 
 One of [my favorite pull requests](https://github.com/tracelytics/ruby-traceview/pull/168) from the past.
 

@@ -77,4 +77,4 @@ You can reach me in the following ways:
 * Email me at my github username at hey.com
 * File a Github issue in this repo
 * DM me on [Twitter](https://twitter.com/pglombardo)
-* Write me a letter.  Response averages from one to two months.
+* Write me a letter.  Response times averages from one to two months.

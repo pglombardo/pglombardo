@@ -9,10 +9,6 @@
 
 </div>
 
-# About
-
-My name is Peter Giacomo Lombardo and I am based in Palermo, Sicily.
-
 # Current
 
 I'm proudly enlisted with [HiveMQ](https://www.hivemq.com) building out their massively scalable MQTT broker product.

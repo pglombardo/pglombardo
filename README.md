@@ -23,7 +23,7 @@ In other projects I've built embedded systems, distributed file systems, impleme
 
 [![Password Pusher](./assets/pwpush-horizontal-logo.png)](https://github.com/pglombardo/PasswordPusher)
 
-Since 2011, I've worked on a security solution that makes communicating sensitive data more secure.  The project boasts an active community and more than **270k MAU** at [pwpush.com](https://pwpush.com).
+Since 2011, I've worked on a security solution that makes communicating sensitive data more secure.  The project boasts an active community, thousands of privately hosted instances and more than **270k MAU** at [pwpush.com](https://pwpush.com).
 
 The solution is white-label, can be re-branded and is often hosted privately.
 

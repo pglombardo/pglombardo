@@ -11,11 +11,7 @@
 
 # Current
 
-I'm proudly enlisted with [HiveMQ](https://www.hivemq.com) building out their massively scalable MQTT broker product.
-
-Specifically, I am building the bright future of their MQTT client ecosystem.
-
-Don't know MQTT?  It's a binary publish/subscribe protocol that is used in many places such as IoT, Gaming, Robotics and Manufacturing.  See [the specification](https://mqtt.org).
+I am the founder of [Apnotic](https://apnotic.com) - the company behind the open source [Password Pusher](https://pwpush.com) project.
 
 # Past
 
@@ -27,9 +23,9 @@ In other projects I've built embedded systems, distributed file systems, impleme
 
 [![Password Pusher](./assets/pwpush-horizontal-logo.png)](https://github.com/pglombardo/PasswordPusher)
 
-In my spare time, I work on a security solution that makes communicating sensitive data more secure.  The project boasts an active community and more than **185k MAU** at [pwpush.com](https://pwpush.com).
+Since 2011, I've worked on a security solution that makes communicating sensitive data more secure.  The project boasts an active community and more than **270k MAU** at [pwpush.com](https://pwpush.com).
 
-The solution can be re-branded and is often hosted privately.
+The solution is white-label, can be re-branded and is often hosted privately.
 
 # Packages I've Authored
 

@@ -11,7 +11,7 @@
 
 # Current
 
-I am the founder of [Apnotic](https://apnotic.com) - the company behind the open source [Password Pusher](https://pwpush.com) project.
+I am the founder of [Apnotic](https://apnotic.com) - the company behind the popular open source [Password Pusher](https://pwpush.com) project.
 
 # Past
 

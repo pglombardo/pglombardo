@@ -25,7 +25,7 @@ In other projects I've built embedded systems, distributed file systems, impleme
 
 Since 2011, I've worked on a security solution that makes communicating sensitive data more secure.
 
-The project boasts an active community, thousands of privately hosted instances and more than **270k MAU** at [pwpush.com](https://pwpush.com).
+The project boasts an active community, thousands of privately hosted instances and more than **310k monthly active users** at [pwpush.com](https://pwpush.com).
 
 The solution is white-label, can be re-branded and is often hosted privately.
 

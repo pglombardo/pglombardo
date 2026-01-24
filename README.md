@@ -16,12 +16,6 @@ I am the founder of [Apnotic](https://apnotic.com) - a bootstrapped, privately h
 
 I also build [HiveMQtt](https://hivemq.github.io/hivemq-mqtt-client-dotnet/) and run [Awesome MQTT](https://awesome-mqtt.com) - a curated collection of MQTT brokers, tools, libraries and resources.
 
-# Past
-
-More than 8 years building performance instrumentation for Instana & Tracelytics (now bought and renamed to IBM Instana & SolarWind AppOptics).
-
-In other projects I've built embedded systems, distributed file systems, implemented protocols and architected SaaS products.
-
 # Open Source
 
 ## Password Pusher
@@ -56,7 +50,7 @@ I also curate [Awesome MQTT](https://awesome-mqtt.com) - a collection of MQTT re
 
 [![Awesome MQTT](https://img.shields.io/static/v1?label=&message=Awesome%20MQTT&color=purple&style=for-the-badge)](https://awesome-mqtt.com)
 
-# Past Work
+# Past Open Source Work
 
 **Instana** - APM instrumentation packages providing automatic distributed tracing, metrics and profiling for production applications.
 
@@ -68,6 +62,12 @@ I also curate [Awesome MQTT](https://awesome-mqtt.com) - a collection of MQTT re
 [![](https://img.shields.io/gem/dt/traceview?label=TraceView&style=for-the-badge&logo=ruby)](https://rubygems.org/gems/traceview)
 [![](https://img.shields.io/gem/dt/oboe?label=Oboe&logo=ruby&style=for-the-badge)](https://rubygems.org/gems/oboe)
 [![](https://img.shields.io/gem/dt/oboe-heroku?label=Oboe%20Heroku&logo=ruby&style=for-the-badge)](https://rubygems.org/gems/oboe-heroku)
+
+# Other Past
+
+More than 8 years building performance instrumentation for Instana & Tracelytics (now bought and renamed to IBM Instana & SolarWind AppOptics).
+
+In other projects I've built embedded systems, distributed file systems, implemented protocols and architected SaaS products.
 
 # Recent Posts
 

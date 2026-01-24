@@ -83,8 +83,6 @@ I also curate [Awesome MQTT](https://awesome-mqtt.com) - a collection of MQTT re
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-One of [my favorite pull requests](https://github.com/tracelytics/ruby-traceview/pull/168) from the past.
-
 # Contact
 
 * Email me at my github username at apnotic.com

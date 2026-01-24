@@ -17,7 +17,7 @@ I also run [Awesome MQTT](https://awesome-mqtt.com) - a curated collection of MQ
 
 # Past
 
-More than 8 years building performance instrumentation for Instana & Tracelytics (today renamed to AppOptics).
+More than 8 years building performance instrumentation for Instana & Tracelytics (now bought and renamed to IBM Instana & SolarWind AppOptics).
 
 In other projects I've built embedded systems, distributed file systems, implemented protocols and architected SaaS products.
 
@@ -31,7 +31,7 @@ Since 2011, I've built and maintained Password Pusher - a secure platform for sh
 
 **By the numbers:**
 - **100M+** secrets securely shared
-- **315k** monthly active users at [pwpush.com](https://pwpush.com)
+- **345k** monthly active users at [pwpush.com](https://pwpush.com)
 - **14+** years in production
 - **31+** language translations
 - **99.99%** historical uptime
@@ -39,12 +39,12 @@ Since 2011, I've built and maintained Password Pusher - a secure platform for sh
 The platform features AES-256 encryption, automatic expiration, passphrase protection, team collaboration and a powerful API. Available as a hosted SaaS (US & EU regions) or fully self-hosted via Docker/Kubernetes. White-label ready with 26 bundled themes.
 
 [![](https://img.shields.io/github/stars/pglombardo/PasswordPusher?label=GitHub%20Stars&logo=github&style=for-the-badge)](https://github.com/pglombardo/PasswordPusher)
-[![](https://img.shields.io/docker/pulls/pglombardo/pwpush?label=Docker%20Pulls&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-ephemeral)
+[![](https://img.shields.io/docker/pulls/pglombardo/pwpush-ephemeral?label=Docker%20Pulls&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-ephemeral)
 [![](https://img.shields.io/pypi/dm/pwpush?label=CLI%20Downloads&logo=python&style=for-the-badge)](https://pypi.org/project/pwpush/)
 
 ## MQTT
 
-I build and maintain [HiveMQtt](https://hivemq.github.io/hivemq-mqtt-client-dotnet/) - the official C# MQTT client for .NET by [HiveMQ](https://www.hivemq.com/). It's fully MQTT 5.0 compliant and designed for enterprise-grade IoT deployments.
+I also build and maintain [HiveMQtt](https://hivemq.github.io/hivemq-mqtt-client-dotnet/) - the official C# MQTT client for .NET by [HiveMQ](https://www.hivemq.com/). It's fully MQTT 5.0 compliant and designed for enterprise-grade IoT deployments.
 
 Features include async/await patterns, TLS/SSL security, WebSocket support and compatibility with .NET 6, 7, 8 and 9.
 
@@ -55,7 +55,7 @@ I also curate [Awesome MQTT](https://awesome-mqtt.com) - a collection of MQTT re
 
 [![Awesome MQTT](https://img.shields.io/static/v1?label=&message=Awesome%20MQTT&color=purple&style=for-the-badge)](https://awesome-mqtt.com)
 
-# Past Packages
+# Past Work
 
 **Instana** - APM instrumentation packages providing automatic distributed tracing, metrics and profiling for production applications.
 
@@ -78,18 +78,17 @@ I also curate [Awesome MQTT](https://awesome-mqtt.com) - a collection of MQTT re
 
 # Statistics & Data
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
 ![pglombardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pglombardo&count_private=true&theme=radical&show_icons=true&title_color=0891b2&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pglombardo&theme=blueberry)
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 One of [my favorite pull requests](https://github.com/tracelytics/ruby-traceview/pull/168) from the past.
 
 # Contact
 
-* Email me at my github username at hey.com
+* Email me at my github username at apnotic.com
 * File a Github issue in this repo
 * DM me on [X](https://x.com/pglombardo)
 * Follow [Password Pusher on X](https://x.com/pwpush)

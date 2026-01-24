@@ -1,7 +1,11 @@
 <div align="center">
-<img src="./assets/meditating_monkey.jpg"/ height="250">
+<img src="./assets/meditating_monkey.jpg" height="250">
 
 <br/>
+
+# Hey, I'm Peter 👋
+
+Creator of [Password Pusher](https://pwpush.com). Founder of [Apnotic](https://apnotic.com). Building secure tools since 2011.
 
 [![Apnotic](https://img.shields.io/static/v1?label=Company&message=Apnotic&color=black&style=for-the-badge)](https://apnotic.com)
 ![GitHub followers](https://img.shields.io/github/followers/pglombardo?logo=GitHub&style=for-the-badge&label=Github%20Followers)
@@ -10,9 +14,12 @@
 
 </div>
 
-# Current
+# What I'm Building
 
-I am the founder of [Apnotic](https://apnotic.com) - a bootstrapped, privately held company focused on secure information distribution. We build [Password Pusher](https://pwpush.com), a platform used by thousands of organizations to securely share passwords, files and sensitive data.
+I'm the founder of [Apnotic](https://apnotic.com) - a bootstrapped, privately held company focused on secure information distribution.
+
+We build [Password Pusher](https://pwpush.com), a platform used by thousands of organizations to securely distribute passwords, files and sensitive data.
+
 
 I also build [HiveMQtt](https://hivemq.github.io/hivemq-mqtt-client-dotnet/) and run [Awesome MQTT](https://awesome-mqtt.com) - a curated collection of MQTT brokers, tools, libraries and resources.
 
@@ -26,15 +33,15 @@ Since 2011, I've built and maintained Password Pusher - a secure platform for sh
 
 **By the numbers:**
 - **100M+** secrets securely shared
-- **345k** monthly active users at [pwpush.com](https://pwpush.com)
-- **14+** years in production
+- **345k+** monthly active users at [pwpush.com](https://pwpush.com)
+- **15+** years in production
 - **31+** language translations
 - **99.99%** historical uptime
 
 The platform features AES-256 encryption, automatic expiration, passphrase protection, team collaboration and a powerful API. Available as a hosted SaaS (US & EU regions) or fully self-hosted via Docker/Kubernetes. White-label ready with 26 bundled themes.
 
 [![](https://img.shields.io/github/stars/pglombardo/PasswordPusher?label=GitHub%20Stars&logo=github&style=for-the-badge)](https://github.com/pglombardo/PasswordPusher)
-[![](https://img.shields.io/docker/pulls/pglombardo/pwpush-ephemeral?label=Docker%20Pulls&logo=docker&style=for-the-badge)](https://hub.docker.com/r/pglombardo/pwpush-ephemeral)
+[![](https://img.shields.io/badge/Docker%20Pulls-71M+-blue?style=for-the-badge&logo=docker)](https://hub.docker.com/r/pglombardo/pwpush)
 [![](https://img.shields.io/pypi/dm/pwpush?label=CLI%20Downloads&logo=python&style=for-the-badge)](https://pypi.org/project/pwpush/)
 
 ## MQTT
@@ -63,11 +70,11 @@ I also curate [Awesome MQTT](https://awesome-mqtt.com) - a collection of MQTT re
 [![](https://img.shields.io/gem/dt/oboe?label=Oboe&logo=ruby&style=for-the-badge)](https://rubygems.org/gems/oboe)
 [![](https://img.shields.io/gem/dt/oboe-heroku?label=Oboe%20Heroku&logo=ruby&style=for-the-badge)](https://rubygems.org/gems/oboe-heroku)
 
-# Other Past
+# Background
 
-More than 8 years building performance instrumentation for Instana & Tracelytics (now bought and renamed to IBM Instana & SolarWind AppOptics).
+More than 8 years building performance instrumentation for Instana & Tracelytics (both acquired - now IBM Instana & SolarWinds AppOptics).
 
-In other projects I've built embedded systems, distributed file systems, implemented protocols and architected SaaS products.
+Beyond that, I've built embedded systems, distributed file systems, implemented protocols and architected SaaS products.
 
 # Recent Posts
 
@@ -85,7 +92,7 @@ In other projects I've built embedded systems, distributed file systems, impleme
 
 # Contact
 
-* Email me at my github username at apnotic.com
-* File a Github issue in this repo
-* DM me on [X](https://x.com/pglombardo)
-* Follow [Password Pusher on X](https://x.com/pwpush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Giacomo%20Lombardo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peterlombardo/)
+[![X](https://img.shields.io/badge/@pglombardo-black?style=for-the-badge&logo=x)](https://x.com/pglombardo)
+[![Email](https://img.shields.io/badge/Email-pglombardo%40apnotic.com-gray?style=for-the-badge&logo=gmail)](mailto:pglombardo@apnotic.com)
+[![Password Pusher](https://img.shields.io/badge/Password%20Pusher-@pwpush-blue?style=for-the-badge&logo=x)](https://x.com/pwpush)

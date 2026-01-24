@@ -1,11 +1,12 @@
 <div align="center">
-<img src="./assets/meditating_monkey.jpg"/>
+<img src="./assets/meditating_monkey.jpg"/ height="250">
 
 <br/>
 
+[![Apnotic](https://img.shields.io/static/v1?label=Company&message=Apnotic&color=black&style=for-the-badge)](https://apnotic.com)
 ![GitHub followers](https://img.shields.io/github/followers/pglombardo?logo=GitHub&style=for-the-badge&label=Github%20Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/pglombardo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Github%20Stars)
-[![TheOx00](https://img.shields.io/static/v1?label=Blog&message=The0x00.dev&color=blue&style=for-the-badge)](https://the0x00.dev)
+[![TheOx00](https://img.shields.io/static/v1?label=Blog&message=The0x00.dev&color=green&style=for-the-badge)](https://the0x00.dev)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 I am the founder of [Apnotic](https://apnotic.com) - a bootstrapped, privately held company focused on secure information distribution. We build [Password Pusher](https://pwpush.com), a platform used by thousands of organizations to securely share passwords, files and sensitive data.
 
-I also run [Awesome MQTT](https://awesome-mqtt.com) - a curated collection of MQTT brokers, tools, libraries and resources.
+I also build [HiveMQtt](https://hivemq.github.io/hivemq-mqtt-client-dotnet/) and run [Awesome MQTT](https://awesome-mqtt.com) - a curated collection of MQTT brokers, tools, libraries and resources.
 
 # Past
 

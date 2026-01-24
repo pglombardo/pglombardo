@@ -81,8 +81,6 @@ I also curate [Awesome MQTT](https://awesome-mqtt.com) - a collection of MQTT re
 
 ![pglombardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pglombardo&count_private=true&theme=radical&show_icons=true&title_color=0891b2&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pglombardo&theme=blueberry)
-
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 One of [my favorite pull requests](https://github.com/tracelytics/ruby-traceview/pull/168) from the past.

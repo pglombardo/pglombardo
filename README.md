@@ -5,8 +5,6 @@
 
 # Hey, I'm Peter 👋
 
-Creator of [Password Pusher](https://pwpush.com). Founder of [Apnotic](https://apnotic.com). Building secure tools since 2011.
-
 [![Apnotic](https://img.shields.io/static/v1?label=Company&message=Apnotic&color=black&style=for-the-badge)](https://apnotic.com)
 ![GitHub followers](https://img.shields.io/github/followers/pglombardo?logo=GitHub&style=for-the-badge&label=Github%20Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/pglombardo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Github%20Stars)
